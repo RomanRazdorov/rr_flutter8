@@ -7,8 +7,11 @@ environment:
   sdk: '>=3.4.0 <4.0.0'
 
 dependencies:
+  baseflow_plugin_template: ^2.2.0
+  cached_network_image: ^3.4.1
   flutter:
     sdk: flutter
+  flutter_blurhash: ^0.8.2
 
 dev_dependencies:
   flutter_test:
